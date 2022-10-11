@@ -1,0 +1,32 @@
+.max-width-1
+{
+width:80vw;  <!-- view port  it makes very responsive-->
+}
+.max-width-2
+{
+width:60vw;
+}
+.m-auto
+{
+margin: auto; <!-- margin auto it will put the colors in center-->
+}
+.form-input{
+padding: 0px 5px;
+font-size: 16px;
+border: 2px solid black;
+border-radius: 4px;
+margin: 0 13px;
+}
+.btn
+{
+padding:0px 20px;
+border: 2px solid black;
+border-radius: 4px;
+font-size: 16px;
+cursor:pointer;
+transition:all 0.3s ease-in-out;
+}
+.btn:hover{
+color:white;
+background:brown;
+}
